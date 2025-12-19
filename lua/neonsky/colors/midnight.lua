@@ -46,6 +46,13 @@ return {
   muted = "#0a0a2a",
   sel = "#1f0f4d",
 
+  -- Git colors
+  git = {
+    add = "#4ddf8a",
+    change = "#dfbc56",
+    delete = "#df3b4c",
+  },
+
   -- Terminal colors (muted)
   terminal = {
     black = "#0a1a2a",
